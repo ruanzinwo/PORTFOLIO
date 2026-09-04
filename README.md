@@ -1,56 +1,57 @@
-Refatoração do Caos
-Landing Page Bagunçada  
-Este repositório contém uma landing page completa em HTML, CSS e JavaScript, propositalmente desorganizada.
-O objetivo é servir como exercício prático de refatoração e preparar o projeto para futura migração para React, TypeScript e Vite.
+# 💻 Portfólio — Ruan Miguel
+
+Bem-vindo ao meu portfólio pessoal!
+
+## 👨‍💻 Sobre mim
+
+Meu nome é **Ruan Miguel Correia dos Santos**, tenho 19 anos e sou graduando em **Sistemas de Informação**.
+
+Sou interessado em tecnologia e desenvolvimento de software e estou sempre buscando aprender e melhorar minhas habilidades.
+
+Além da programação, gosto de:
+
+- 🎮 Jogar
+- ⚽ Futebol
+- 🇺🇸 Estudar inglês
+- 🇪🇸 Estudar espanhol
+
+## 🚀 Tecnologias
+
+Atualmente estou estudando e desenvolvendo conhecimentos em:
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📂 Projeto
+
+Este projeto foi desenvolvido como exercício de **refatoração de uma landing page**, aplicando boas práticas de:
+
+- HTML semântico
+- CSS organizado
+- JavaScript
+- Acessibilidade
+- SEO
+- Responsividade
+- Organização de código
+
+## 🎯 Objetivos
+
+Meu objetivo é continuar evoluindo na área de tecnologia e futuramente trabalhar profissionalmente com desenvolvimento de software.
+
+## 📌 Próximos passos
+
+- [ ] Melhorar o design
+- [ ] Adicionar projetos reais
+- [ ] Adicionar minha foto
+- [ ] Adicionar links para GitHub e LinkedIn
+- [ ] Migrar o projeto para React
+- [ ] Adicionar TypeScript
+- [ ] Utilizar Vite
 
 ---
 
-Objetivos
-Receber um projeto caótico e transformá-lo em código organizado e profissional.
-
-Aplicar boas práticas de HTML, CSS e JavaScript.
-
-Melhorar acessibilidade e SEO.
-
-Preparar o projeto para futura migração para React, TypeScript e Vite.
-
----
-
-O que você deve fazer
-Organizar arquivos → separar HTML, CSS e JS em arquivos próprios.
-
-Usar tags semânticas → substituir div genéricas por header, main, section, footer.
-
-Padronizar classes → corrigir nomes inconsistentes (card1, card_2, Card3).
-
-Melhorar acessibilidade → adicionar alt em imagens, label em inputs, contraste adequado.
-
-Aplicar SEO → título descritivo, meta tags, headings corretos.
-
-Remover duplicações → funções repetidas e variáveis mal nomeadas.
-
-Documentar → comentários claros e úteis.
-
----
-
-Dicas rápidas
-CSS inline → mova para style.css.
-
-Funções duplicadas → mantenha apenas uma.
-
-Inputs → sempre com label.
-
-Imagens → sempre com alt.
-
-Comentários → explique o porquê, não o óbvio.
-
----
-
-Próxima etapa
-Após corrigir o repositório, você deverá:
-
-Migrar o projeto para React.
-
-Adicionar TypeScript para tipagem.
-
-Usar Vite como ferramenta de build.
+**Ruan Miguel Correia dos Santos**  
+Graduando em Sistemas de Informação
